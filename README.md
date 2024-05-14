@@ -35,17 +35,24 @@ Change log for version 2.0:
 6. The apperence of website's layout was improved.
 7. Part of HTML code (links) was modify to agreed with HTML 4 coders art.
 
+![second version1](https://github.com/PatrykSiekierzycki/Simple-website/assets/106544444/1961bf84-e178-4a34-9363-089b871f488c)
+
+![second version2](https://github.com/PatrykSiekierzycki/Simple-website/assets/106544444/23654467-d235-4b20-a931-d72433b6bbf5)
+
+![second version3](https://github.com/PatrykSiekierzycki/Simple-website/assets/106544444/f1960f54-ad64-4075-9914-8a3a5b0be74f)
+
 How to run version 2.0 (on XAMPP example):
 1. Download .zip catalogue with version V 2.0.
 2. Extract catalogue from .zip catalogue.
-3. To run version 2.0 you need a server software, for example XAMPP.
-4. Install XAMPP.
-5. After instalation you should find icon with name: XAMPP Control Panel. Click it.
-6. You will see a new window. You will find button with text: explorer. Click it.
-7. You will see a new window with many catalogue. Find catalogue call: htdocs and put extracted catalogue inside the htdocs catalogue.  
-8. On the window where you found button call: explorer, you should find name: Apache. At right side from that name you will see a button with text: start. Click it.
-9. Go to your broswer and past the url: http://localhost/V2.0
-10. You will see a website.
-11. To exit XAMPP you should click button call: stop, at right side from Apache text.
-12. Find button call Quit on the same window.
-13. That close the XAMPP.
+3. You should find catalogue call: V2.0.
+4. To run version 2.0 you need a server software, for example XAMPP.
+5. Install XAMPP.
+6. After instalation you should find icon with name: XAMPP Control Panel. Click it.
+7. You will see a new window. You will find button with text: explorer. Click it.
+8. You will see a new window with many catalogue. Find catalogue call: htdocs and put extracted catalogue inside the htdocs catalogue.  
+9. On the window where you found button call: explorer, you should find name: Apache. At right side from that name you will see a button with text: start. Click it.
+10. Go to your broswer and past the url: http://localhost/V2.0
+11. You will see a website.
+12. To exit XAMPP you should click button call: stop, at right side from Apache text.
+13. Find button call Quit on the same window.
+14. That close the XAMPP.
