@@ -1,0 +1,167 @@
+body
+{
+	background-color: #3a6e1f;
+	margin: 0;
+}
+
+#container
+{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	width: 100%;
+}
+
+#logo img
+{
+	width: 100%;
+}
+
+#definition
+{
+	box-sizing: border-box;
+	min-width: 100%;
+	margin-top: 1vw;
+	background-color: red;
+	padding-top: 0.5vw;
+	padding-bottom: 0.5vw;
+	text-align: center;
+	font-size: 1.5vw;
+}
+#content-box
+{
+	width: 100%;
+	height: 15vw;
+	margin-top: 1vw;
+}
+
+#menu
+{
+	float: left;
+	box-sizing: border-box;
+	width: 20%;
+	height: 100%;
+	margin-right: 5%;
+}
+
+.option
+{
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	height: 10%;
+	margin-right: 3vw;
+	background-color: #f7ef05;
+	color: #03a82f;
+	border-bottom: 2px dotted #000000;
+	text-align: center;
+	font-size: 1.0vw;
+	font-weight: bold;
+}
+
+.option:hover
+{
+	margin-left: 25px;
+	background-color: #f105f5;
+	color: #f7ef05;
+	border-bottom: 2px dotted #000000;
+}
+
+.option:first-child
+{
+	border-top: 2px dotted #000000;
+}
+.linkopt
+{
+	text-decoration: none;
+}
+
+#photo
+{
+	float: left;
+	width: 40%;
+	height: 100%;
+	background-color: #ffffff;
+	margin: 0;
+}
+
+#photo figure
+{
+	display: block;
+	width: 100%;
+	height: 90%;
+	margin: 0;
+}
+
+figure img
+{
+	display: block;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.desc1
+{
+	box-sizing: border-box;
+	width: 100%;
+	height: 10%;
+	margin: 0;
+	text-align: center;
+	font-size: 0.5vw;
+	padding: 1%;
+}
+
+#content
+{
+	float: left;
+	box-sizing: border-box;
+	width: 30%;
+	height: 100%;
+	margin-left: 5%;
+	margin-right: 0;
+	padding: 10% 0.5vw;
+	background-color: #e48647;
+	text-align: center;
+	font-size: 1vw;
+}
+
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+h1,h2
+{
+	text-align: center;	
+}
+
+li
+{
+	font-size: 25px;
+}
+
+.ad
+{
+	padding-left: 2px;
+	padding-right: 2px;
+	text-align: center;
+	font-size: 14px;
+}
+
+#footer
+{
+	box-sizing: border-box;
+	width: 100%;
+	height: 1.5vw;
+	margin-top: 1vw;
+	padding: 0.3vw 0vw;
+	background-color: red;
+	font-size: 0.7vw;
+	text-align: center;
+}
